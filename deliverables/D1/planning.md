@@ -18,12 +18,22 @@
    For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
  * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
 
+**Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. 
+The idea is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
+
+Indie game developers will be able to upload games and create surveys to collect responses and feedback from playtesters. They will be able to assign playtesters to review and play their game.
+Playtesters will be able to download and play games uploaded, and leave reviews. They should be able to select and apply to review games of their choosing.**
+
 
 #### Q2: Who are your target users?
 
   > Short (1 - 2 min' read max)
  * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
  * **Feel free to use personas. You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).**
+
+**Our target users are indie game developers, who may not have the means to easily access or employ a team of QA testers. The web-app will facilitate a means to “crowdsource” playtesters. These developers would be able to interact with and receive feedback from these playtesters before possibly releasing their game.
+
+Playtesters can range from people who want to try out new games, or even other indie developers who wish to help others on the website. We rely on the feedback provided by these playtesters, and so the site should be simple and convenient to use for them.**
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
@@ -36,12 +46,26 @@
     * Does this application exist in another form? If so, how does your differ and provide value to the users?
     * How does this align with your partner's organization's values/mission/mandate?
 
+**Developers might not have the means to get a reliable team of QA testers for their games, (but might still want playtesters). Playtesters may want to help with the refining of new indie games and support smaller creators (they may be offered other incentives by developers as little thank-yous). Admin wants to facilitate and manage interactions between these groups, and hopefully turn a profit.**
+
 #### Q4: What are the user stories that make up the Minumum Viable Product (MVP)?
 
  * At least 5 user stories concerning the main features of the application - note that this can broken down further
  * You must follow proper user story format (as taught in lecture) ```As a <user of the app>, I want to <do something in the app> in order to <accomplish some goal>```
  * User stories must contain acceptance criteria. Examples of user stories with different formats can be found here: https://www.justinmind.com/blog/user-story-examples/. **It is important that you provide a link to an artifact containing your user stories**.
  * If you have a partner, these must be reviewed and accepted by them. You need to include the evidence of partner approval (e.g., screenshot from email) or at least communication to the partner (e.g., email you sent)
+
+**As an indie developer, I would like to be able to create an account and upload games to be playtested, so that I could see all the games I have uploaded, and easily view new feedback in a single location.
+
+As an indie developer, I would like to be able to create surveys and assign playtesters to my games, so that I can collect feedback and responses in order to better improve my game.
+
+As a playtester, I would like to be able to browse a large selection of indie games and download them, so that I am able to playtest and provide feedback.
+
+As a playtester, after playing a game, I would like to be able to easily review and complete surveys provided by the developer, so that I can help developers improve their game in a time efficient manner.
+
+As an administrator, I would like to be able to view reviews and games posted on the web-app, and be able to contact playtesters and developers or remove them if they have violated certain rules, so that the application remains well managed and easy to work with.
+
+As an administrator, I would like to be able to manage the subscription service for users and be able to be contacted if users have concerns regarding their subscription. **
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
@@ -66,6 +90,11 @@
 
 Briefly describe which option you have agreed to.
 
+**3. You will only share the code under an open-source license with the partner but agree to not distribute it in any way to any other entity or individual. (Formally: MIT License)
+Sam can use it however he likes pretty much without necessarily having to give us anything
+We can definitely put it on our resume and show the code we each wrote individually to employers. (Maybe not the whole repo!)**
+
+
 ----
 
 ## Teamwork Details
@@ -77,6 +106,13 @@ Do a team-building activity in-person or online. This can be playing an online g
 * Provide a few sentences on what you did and share a picture or other evidence of your team building activity.
 * Share at least three fun facts from members of you team (total not 3 for each member).
 
+**Yes, we have had extensive conversations in our own Discord and formally met with our partner for the first time last Saturday. We spent a lot of time talking about our skills in Computer Science, and why we were so interested in a game-focused project. Turns out we all have some experience in game development! 
+
+Fun Facts:
+Nealon and Brian have worked together 3 times on making games for the UofT Game Development Club
+Mahir and our partner, Sam, are super into Dungeons and Dragons
+We had a lot of trouble coming up with a third fun fact because we aren’t that interesting, we literally talked about it for like a good five minutes and found nothing :D 👍👍
+Andy Z’s discord profile pic is a hamster being delicately handled by the nape.**
 
 #### Q7: What are the roles & responsibilities on the team?
 
