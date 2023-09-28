@@ -114,6 +114,8 @@ Mahir and our partner, Sam, are super into Dungeons and Dragons
 We had a lot of trouble coming up with a third fun fact because we aren’t that interesting, we literally talked about it for like a good five minutes and found nothing :D 👍👍
 Andy Z’s discord profile pic is a hamster being delicately handled by the nape.**
 
+![Proof](proof.png "This is proof")
+
 #### Q7: What are the roles & responsibilities on the team?
 
 Describe the different roles on the team and the responsibilities associated with each role. 
