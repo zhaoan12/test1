@@ -10,7 +10,9 @@ Our primary point of contact is Sam Nulf
 
 
 ## Description about the project
- * Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. The ideas is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
+
+Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. 
+The ideas is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
 ​
 ## Key Features
  * Describe the key features in the application that the user can access.
