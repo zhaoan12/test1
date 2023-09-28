@@ -1,13 +1,11 @@
 # 38-Simulence
 ​
-> _Note:_ This document is intended to be relatively short. Be concise and precise. Assume the reader has no prior knowledge of your application and is non-technical. 
-​
+Tasks are managed on a Github project.
+
 ## Partner Intro
 Simulence offers user research for your games, allow for easy, cost effective, and customizable playtesting
 
-Our primary point of contact is Sam Nulf
-#TODO could we fill out his contact info I am not 100% sure on the email
-
+Our primary point of contact is Sam Nulf, the manager for the Simulence project.
 
 ## Description about the project
 
@@ -15,9 +13,6 @@ Simulence is a web-app designed for game developers to obtain feedback on their 
 The ideas is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
 ​
 ## Key Features
- * Describe the key features in the application that the user can access.
- * Provide a breakdown or detail for each feature.
- * This section will be used to assess the value of the features built
 
 Developers would be able to: 
  * Upload games for playtesters to download and play
@@ -33,10 +28,7 @@ Playtesters would be able to:
 Administrators would be able to:
  * Manage the subscription service for users
  * Enforces rules on the web-app
-​
 
-
-------------------------- #TODO anything past this is still todo -------------------------
 ## Instructions
  * Clear instructions for how to use the application from the end-user's perspective
  * How do you access it? For example: Are accounts pre-created or does a user register? Where do you start? etc. 
@@ -44,11 +36,23 @@ Administrators would be able to:
  * This section is critical to testing your application and must be done carefully and thoughtfully.
  
  ## Development requirements
- * What are the technical requirements for a developer to set up on their machine or server (e.g. OS, libraries, etc.)?
- * Briefly describe instructions for setting up and running the application. You should address this part like how one would expect a README doc of real-world deployed application would be.
- * You can see this [example](https://github.com/alichtman/shallow-backup#readme) to get started.
  
- ## Deployment and Github Workflow
+To use Simulence, users can type the url into their web browser and begin by creating their profile.
+
+Key development requirements and external dependencies for the project include the following:
+
+Front End:
+* HTML
+* CSS
+* JavaScript
+* Vue
+* Bootstrap
+
+BackEnd: 
+* Node.js
+* Firebase
+ 
+## Deployment and Github Workflow
 ​
 Describe your Git/GitHub workflow. Essentially, we want to understand how your team members share codebase, avoid conflicts and deploys the application.
 ​
@@ -58,13 +62,16 @@ Describe your Git/GitHub workflow. Essentially, we want to understand how your t
  * What deployment tool(s) are you using? And how?
  * Don't forget to **briefly justify why** you chose this workflow or particular aspects of it!
 
- ## Coding Standards and Guidelines
+## Coding Standards and Guidelines
  Keep this section brief, a maximum of 2-3 lines. You would want to read through this [article](https://www.geeksforgeeks.org/coding-standards-and-guidelines/) to get more context about what this section is for before attempting to answer.
-  * These are 2 optional resources that you might want to go through: [article with High level explanation](https://blog.codacy.com/coding-standards-what-are-they-and-why-do-you-need-them/) and [this article with Detailed Explanation](https://google.github.io/styleguide/)
+ 
+* These are 2 optional resources that you might want to go through: [article with High level explanation](https://blog.codacy.com/coding-standards-what-are-they-and-why-do-you-need-them/) and [this article with Detailed Explanation](https://google.github.io/styleguide/)
 ​
- ## Licenses 
+## Licenses 
 ​
  Keep this section as brief as possible. You may read this [Github article](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for a start.
-​
- * What type of license will you apply to your codebase? And why?
- * What affect does it have on the development and use of your codebase?
+​ We will applying the MIT license, or in other words:
+
+ * We will only share the code under an open-source license with the partner but agree to not distribute it in any way to any other entity or individual. Our partner can use it however he likes pretty much without necessarily having to give us anything. We can also put it on our resume and show the code we each wrote individually to employers.
+
+ Note that this licence has no effect on our development process and codebase.
