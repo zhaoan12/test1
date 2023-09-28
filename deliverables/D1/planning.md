@@ -144,7 +144,10 @@ Describe meetings (and other events) you are planning to have.
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
  * You should have 2 meetings with your project partner (if you have one) before D1 is due. Describe them here:
    * You must keep track of meeting minutes and add them to your repo under "documents/minutes" folder
-   * You must have a regular meeting schedule established for the rest of the term.  
+   * You must have a regular meeting schedule established for the rest of the term.
+
+We will hold weekly (or twice-weekly) meetings to check up on progress of each member’s work, and how we can integrate it into the project with thorough testing.
+We will probably do some design together, and then section off components to group members equally, to complete and merge on their own.
   
 #### Q9: How will you organize your team?
 
