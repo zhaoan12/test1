@@ -63,13 +63,11 @@ Describe your Git/GitHub workflow. Essentially, we want to understand how your t
  * Don't forget to **briefly justify why** you chose this workflow or particular aspects of it!
 
 ## Coding Standards and Guidelines
- Keep this section brief, a maximum of 2-3 lines. You would want to read through this [article](https://www.geeksforgeeks.org/coding-standards-and-guidelines/) to get more context about what this section is for before attempting to answer.
- 
-* These are 2 optional resources that you might want to go through: [article with High level explanation](https://blog.codacy.com/coding-standards-what-are-they-and-why-do-you-need-them/) and [this article with Detailed Explanation](https://google.github.io/styleguide/)
+
+We will be publishing pull requests each time we commit to the project, and upon each pull request, we will conduct thorough reviews on each pull request. 
 ​
 ## Licenses 
 ​
- Keep this section as brief as possible. You may read this [Github article](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for a start.
 ​ We will applying the MIT license, or in other words:
 
  * We will only share the code under an open-source license with the partner but agree to not distribute it in any way to any other entity or individual. Our partner can use it however he likes pretty much without necessarily having to give us anything. We can also put it on our resume and show the code we each wrote individually to employers.
