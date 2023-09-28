@@ -1,21 +1,40 @@
-# YOUR PRODUCT/TEAM NAME
+# 38-Simulence
 ​
 > _Note:_ This document is intended to be relatively short. Be concise and precise. Assume the reader has no prior knowledge of your application and is non-technical. 
 ​
 ## Partner Intro
- * Include the names, emails, titles, primary or secondary point of contact at the partner organization
- * Provide a short description about the partner organization. (2-4 lines)
+Simulence offers user research for your games, allow for easy, cost effective, and customizable playtesting
+
+Our primary point of contact is Sam Nulf
+#TODO could we fill out his contact info I am not 100% sure on the email
+
 
 ## Description about the project
-Keep this section very brief.
- * Provide a high-level description of your application and it's value from an end-user's perspective
- * What is the problem you're trying to solve? Is there any context required to understand **why** the application solves this problem?
+ * Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. The ideas is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
 ​
 ## Key Features
  * Describe the key features in the application that the user can access.
  * Provide a breakdown or detail for each feature.
  * This section will be used to assess the value of the features built
+
+Developers would be able to: 
+ * Upload games for playtesters to download and play
+ * Create and distribute surveys for playtesters
+ * Manage their own developer account
+ * Interact with playtesters by adding them to their game, or read and reply to reviews
+ * Schedule events with a calendar
+
+Playtesters would be able to:
+ * Manage their playtester account
+ * Interact with games by adding reviews and filling surveys
+
+Administrators would be able to:
+ * Manage the subscription service for users
+ * Enforces rules on the web-app
 ​
+
+
+------------------------- #TODO anything past this is still todo -------------------------
 ## Instructions
  * Clear instructions for how to use the application from the end-user's perspective
  * How do you access it? For example: Are accounts pre-created or does a user register? Where do you start? etc. 
