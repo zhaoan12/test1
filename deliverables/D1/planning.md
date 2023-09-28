@@ -128,6 +128,13 @@ List each team member and:
  * A description of their role(s) and responsibilities including the components they'll work on and non-software related work
  * Why did you choose them to take that role? Specify if they are interested in learning that part, experienced in it, or any other reasons. Do no make things up. This part is not graded but may be reviewed later.
 
+**Nealon: Full-Stack, UX design and Firebase integration, Partner Liaison/Team Coordinator, Scrum Master
+Samuel: Front-End, Survey Database
+Brian: Back-End, Survey Database, Scrum Master
+Andy J.: Back-End, Survey Database
+Andy Z.: Front-End, Survey Database
+Michael: Full-Stack, I could do DevOps too, Survey Database
+Mahir: Front-End, UX Design, Can help with Firebase**
 
 #### Q8: How will you work as a team?
 
@@ -150,6 +157,10 @@ List/describe the artifacts you will produce in order to organize your team.
    * How do tasks get assigned to team members?
    * How do you determine the status of work from inception to completion?
 
+**There will be an overall To-Do-List that summarizes the work that needs to be done on a high-level, such as components. Then, getting more granular, we will have smaller To-Do-Lists for the Front-End and Back-End portions. These will be in the Discord server, along with regular announcements regarding meetings and course updates, to ensure everyone is always on the same page. 
+
+Meetings are held weekly on Saturdays at 5PM and we will always have someone to document the Meeting Minutes, rotating that responsibility weekly. At each meeting, we will discuss individual contributions and make adjustments to the current assignments to ensure a fair balance is achieved on time by all of us contribution-wise. Balance and punctuality, in regards to work, are the most important to us.**
+
 #### Q10: What are the rules regarding how your team works?
 
 **Communications:**
@@ -158,4 +169,11 @@ List/describe the artifacts you will produce in order to organize your team.
  
 **Collaboration: (Share your responses to Q8 & Q9 from A1)**
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
- * How will you address the issue if one person doesn't contribute or is not responsive? 
+ * How will you address the issue if one person doesn't contribute or is not responsive?
+
+**We have a Discord group for the 7 of us to talk and plan smaller details daily, and we meet weekly on Saturdays at 5PM. We also have access to the official Simulence Discord so we can talk with Sam and other people who have worked on Simulence in the past. For more formal communications, the team coordinator will contact Sam by email. 
+
+Furthermore, the team coordinator (Nealon) will keep track of absences and contributions during the meeting, and if it is clear that members are slacking, he will report this to the group’s TA. The other’s are also to do this if the team coordinator is slacking.
+
+Sam has said to put our schoolwork first – so we aren’t expected to put Simulence over getting decent grades, but we must be fair and should alert him if we have an especially busy week, for example.**
+
