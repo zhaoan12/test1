@@ -75,7 +75,7 @@ As an administrator, I would like to be able to manage the subscription service 
  * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
  * Will you be using third party applications or APIs? If so, what are they?
 
-Our partner has shared with us the codebase of the product, so we'll be largely adding on to that. The codebase itself uses Vue.js for the front-end, which we will continue to work in as it is a reasonably useful framework used in the industry as well, so it's helpful experience. Bootstrap is a library used in the front-end too, and we'll also be using that for similar reasons as before. Likewise, the same will be done with Firebase and Node.js for back-end/storage needs. As for the architecture, it is mainly a website displaying games and comments through cards and buttons, the appearance differing on whether the user is a playtester or game developer.
+Our partner has shared with us the codebase of the product, so we'll be largely adding on to that. Aside from HTML and CSS, the codebase itself uses Vue.js for the front-end, which we will continue to work in as it is a reasonably useful framework used in the industry as well, so it's helpful experience. Bootstrap is a library used in the front-end too, and we'll also be using that for similar reasons as before. Likewise, the same will be done with Firebase and Node.js for back-end/storage needs. As for the architecture, it is mainly a website displaying games and comments through cards and buttons, the appearance differing on whether the user is a playtester or game developer.
 
 ----
 ## Intellectual Property Confidentiality Agreement 
