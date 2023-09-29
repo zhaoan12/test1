@@ -56,7 +56,8 @@ Playtesters can range from people who want to try out new games, or even other i
  * If you have a partner, these must be reviewed and accepted by them. You need to include the evidence of partner approval (e.g., screenshot from email) or at least communication to the partner (e.g., email you sent)
 
 Link to artifact containing user stories [here](./User_Stories.pdf)
-Link to proof of sending it to partner.
+
+Link to proof of sending it to partner [here] (./user_story_proof.pdf)
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
