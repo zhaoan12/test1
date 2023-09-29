@@ -46,7 +46,7 @@ Playtesters can range from people who want to try out new games, or even other i
     * Does this application exist in another form? If so, how does your differ and provide value to the users?
     * How does this align with your partner's organization's values/mission/mandate?
 
-**Developers might not have the means to get a reliable team of QA testers for their games, (but might still want playtesters). Playtesters may want to help with the refining of new indie games and support smaller creators (they may be offered other incentives by developers as little thank-yous). Admin wants to facilitate and manage interactions between these groups, and hopefully turn a profit.**
+**Developers might not have the means to get a reliable team of QA testers for their games, (but might still want playtesters). Playtesters may want to help with the refining of new indie games and support smaller creators (they may be offered other incentives by developers as little thank-yous). Admin wants to facilitate and manage interactions between these groups, and hopefully turn a profit through user subscriptions.**
 
 #### Q4: What are the user stories that make up the Minumum Viable Product (MVP)?
 
@@ -74,6 +74,8 @@ As an administrator, I would like to be able to manage the subscription service 
  * How will you deploy the application?
  * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
  * Will you be using third party applications or APIs? If so, what are they?
+
+Our partner has shared with us the codebase of the product, so we'll be largely adding on to that. The codebase itself uses Vue.js for the front-end, which we will continue to work in as it is a reasonably useful framework used in the industry as well, so it's helpful experience. Bootstrap is a library used in the front-end too, and we'll also be using that for similar reasons as before. Likewise, the same will be done with Firebase and Node.js for back-end/storage needs. As for the architecture, it is mainly a website displaying games and comments through cards and buttons, the appearance differing on whether the user is a playtester or game developer.
 
 ----
 ## Intellectual Property Confidentiality Agreement 
@@ -128,13 +130,13 @@ List each team member and:
  * A description of their role(s) and responsibilities including the components they'll work on and non-software related work
  * Why did you choose them to take that role? Specify if they are interested in learning that part, experienced in it, or any other reasons. Do no make things up. This part is not graded but may be reviewed later.
 
-**Nealon: Full-Stack, UX design and Firebase integration, Partner Liaison/Team Coordinator, Scrum Master
-Samuel: Front-End, Survey Database
-Brian: Back-End, Survey Database, Scrum Master
-Andy J.: Back-End, Survey Database
-Andy Z.: Front-End, Survey Database
-Michael: Full-Stack, I could do DevOps too, Survey Database
-Mahir: Front-End, UX Design, Can help with Firebase**
+Nealon: Full-Stack, UX design and Firebase integration, Partner Liaison/Team Coordinator, Scrum Master. **Reason: Volunteered to be Team Coordinator and wanted to gain Full-Stack experience.**
+Samuel: Front-End, Survey Database. **Reason: Experienced in Front-End and more comfortable with it.**
+Brian: Back-End, Survey Database, Scrum Master. **Reason: Preferred Back-End.**
+Andy J.: Back-End, Survey Database. **Reason: Preferred working in Back-End.**
+Andy Z.: Front-End, Survey Database. **Reason: Preferred working in Front-End.**
+Michael: Full-Stack, I could do DevOps too, Survey Database. **Reason: Somewhat experienced in Full-Stack and DevOps and eager to gain more.**
+Mahir: Front-End, UX Design, Can help with Firebase. **Reason: Preferred Front-End and is interested in aesthetics, but is willing to aid in Firebase.**
 
 #### Q8: How will you work as a team?
 
@@ -146,8 +148,7 @@ Describe meetings (and other events) you are planning to have.
    * You must keep track of meeting minutes and add them to your repo under "documents/minutes" folder
    * You must have a regular meeting schedule established for the rest of the term.
 
-We will hold weekly (or twice-weekly) meetings to check up on progress of each member’s work, and how we can integrate it into the project with thorough testing.
-We will probably do some design together, and then section off components to group members equally, to complete and merge on their own.
+We will be having hybrid meetings twice a week. There'll be meetings on Tuesday at 6PM with our partner Sam to discuss our progress and plans for the project, and to ensure we're on the right track. The other meeting will be internal meetings between members on Saturdays at 6PM to evaluate our own progress, compare contributions, ensure code is merged smoothly, and that everyone is working on their roles. Other than that, people working on the same sections of code will meet up in person every now and then informally to code together and ensure no conflicts in the codebase.
   
 #### Q9: How will you organize your team?
 
