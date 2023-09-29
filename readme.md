@@ -30,11 +30,17 @@ Administrators would be able to:
  * Enforces rules on the web-app
 
 ## Instructions
- * Clear instructions for how to use the application from the end-user's perspective
- * How do you access it? For example: Are accounts pre-created or does a user register? Where do you start? etc. 
- * Provide clear steps for using each feature described in the previous section.
- * This section is critical to testing your application and must be done carefully and thoughtfully.
- 
+
+The web app primarily has 3 users, though the instructions are meant for the first two.
+
+As a developer, Simulence offers the ability to carefully handpick playtesters for their game, as well as design surveys and reviews specifically for their games.
+
+1. a
+
+As a playtester, Simulence gives the opportunity for testers to try unique games in the playtesting stage, completing reviews and surveys thereafter.
+
+1. a
+
  ## Development requirements
  
 To use Simulence, users can type the url into their web browser and begin by creating their profile.
