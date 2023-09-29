@@ -131,8 +131,8 @@ List each team member and:
  * Why did you choose them to take that role? Specify if they are interested in learning that part, experienced in it, or any other reasons. Do no make things up. This part is not graded but may be reviewed later.
 
 Nealon: Full-Stack, UX design and Firebase integration, Partner Liaison/Team Coordinator, Scrum Master. **Reason: Volunteered to be Team Coordinator and wanted to gain Full-Stack experience.**
-Samuel: Front-End, Survey Database. **Reason: Experienced in Front-End and more comfortable with it.**
-Brian: Back-End, Survey Database, Scrum Master. **Reason: Preferred Back-End.**
+Samuel: Front-End, Survey Database. **Reason: Eager to gain more experience in Front-End.**
+Brian: Back-End, Survey Database, Scrum Master. **Reason: Preferred working in Back-End.**
 Andy J.: Back-End, Survey Database. **Reason: Preferred working in Back-End.**
 Andy Z.: Front-End, Survey Database. **Reason: Preferred working in Front-End.**
 Michael: Full-Stack, I could do DevOps too, Survey Database. **Reason: Somewhat experienced in Full-Stack and DevOps and eager to gain more.**
