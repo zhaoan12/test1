@@ -4,22 +4,22 @@
  
 #### Q1: What is the product?
 
-**Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. 
+Simulence is a web-app designed for game developers to obtain feedback on their games that they upload to it, from a user base of playtesters. 
 The idea is that the web app will provide a platform so that indie game developers can use it as a form of QA testing through surveys, reviews, and possibly streamed gameplay.
 
 Indie game developers will be able to upload games and create surveys to collect responses and feedback from playtesters. They will be able to assign playtesters to review and play their game.
-Playtesters will be able to download and play games uploaded, and leave reviews. They should be able to select and apply to review games of their choosing.**
+Playtesters will be able to download and play games uploaded, and leave reviews. They should be able to select and apply to review games of their choosing.
 
 
 #### Q2: Who are your target users?
 
-**Our target users are indie game developers, who may not have the means to easily access or employ a team of QA testers. The web-app will facilitate a means to “crowdsource” playtesters. These developers would be able to interact with and receive feedback from these playtesters before possibly releasing their game.
+Our target users are indie game developers, who may not have the means to easily access or employ a team of QA testers. The web-app will facilitate a means to “crowdsource” playtesters. These developers would be able to interact with and receive feedback from these playtesters before possibly releasing their game.
 
-Playtesters can range from people who want to try out new games, or even other indie developers who wish to help others on the website. We rely on the feedback provided by these playtesters, and so the site should be simple and convenient to use for them.**
+Playtesters can range from people who want to try out new games, or even other indie developers who wish to help others on the website. We rely on the feedback provided by these playtesters, and so the site should be simple and convenient to use for them.
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
-**Developers might not have the means to get a reliable team of QA testers for their games, (but might still want playtesters). Playtesters may want to help with the refining of new indie games and support smaller creators (they may be offered other incentives by developers as little thank-yous). Admin wants to facilitate and manage interactions between these groups, and hopefully turn a profit through user subscriptions.**
+Developers might not have the means to get a reliable team of QA testers for their games, (but might still want playtesters). Playtesters may want to help with the refining of new indie games and support smaller creators (they may be offered other incentives by developers as little thank-yous). Admin wants to facilitate and manage interactions between these groups, and hopefully turn a profit through user subscriptions.
 
 #### Q4: What are the user stories that make up the Minumum Viable Product (MVP)?
 
@@ -34,10 +34,10 @@ Our partner has shared with us the codebase of the product, so we'll be largely 
 ----
 ## Intellectual Property Confidentiality Agreement 
 
-**We will only share the code under an open-source license with the partner but agree to not distribute it in any way to any other entity or individual. 
+We will only share the code under an open-source license with the partner but agree to not distribute it in any way to any other entity or individual. 
 The code is currently licensed under the MIT license. 
 Sam can use it however he likes pretty much without necessarily having to give us anything
-We can definitely put it on our resume and show the code we each wrote individually to employers, but not the entire repository.**
+We can definitely put it on our resume and show the code we each wrote individually to employers, but not the entire repository.
 
 ----
 
@@ -69,14 +69,14 @@ We will be having hybrid meetings twice a week. There'll be meetings on Tuesday 
   
 #### Q9: How will you organize your team?
 
-**There will be an overall To-Do-List that summarizes the work that needs to be done on a high-level, such as components. Then, getting more granular, we will have smaller To-Do-Lists for the Front-End and Back-End portions. These will be in the Discord server, along with regular announcements regarding meetings and course updates, to ensure everyone is always on the same page. 
+There will be an overall To-Do-List that summarizes the work that needs to be done on a high-level, such as components. Then, getting more granular, we will have smaller To-Do-Lists for the Front-End and Back-End portions. These will be in the Discord server, along with regular announcements regarding meetings and course updates, to ensure everyone is always on the same page. 
 
-Meetings are held weekly on Saturdays at 5PM and we will always have someone to document the Meeting Minutes, rotating that responsibility weekly. At each meeting, we will discuss individual contributions and make adjustments to the current assignments to ensure a fair balance is achieved on time by all of us contribution-wise. Balance and punctuality, in regards to work, are the most important to us.**
+Meetings are held weekly on Saturdays at 5PM and we will always have someone to document the Meeting Minutes, rotating that responsibility weekly. At each meeting, we will discuss individual contributions and make adjustments to the current assignments to ensure a fair balance is achieved on time by all of us contribution-wise. Balance and punctuality, in regards to work, are the most important to us.
 
 #### Q10: What are the rules regarding how your team works?
 
-**We have a Discord group for the 7 of us to talk and plan smaller details daily, and we meet weekly on Saturdays at 5PM. We also have access to the official Simulence Discord so we can talk with Sam and other people who have worked on Simulence in the past. For more formal communications, the team coordinator will contact Sam by email. 
+We have a Discord group for the 7 of us to talk and plan smaller details daily, and we meet weekly on Saturdays at 5PM. We also have access to the official Simulence Discord so we can talk with Sam and other people who have worked on Simulence in the past. For more formal communications, the team coordinator will contact Sam by email. 
 
 Furthermore, the team coordinator (Nealon) will keep track of absences and contributions during the meeting, and if it is clear that members are slacking, he will report this to the group’s TA. The other’s are also to do this if the team coordinator is slacking.
 
-Sam has said to put our schoolwork first – so we aren’t expected to put Simulence over getting decent grades, but we must be fair and should alert him if we have an especially busy week, for example.**
+Sam has said to put our schoolwork first – so we aren’t expected to put Simulence over getting decent grades, but we must be fair and should alert him if we have an especially busy week, for example.
