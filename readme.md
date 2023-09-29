@@ -54,13 +54,7 @@ BackEnd:
  
 ## Deployment and Github Workflow
 ​
-Describe your Git/GitHub workflow. Essentially, we want to understand how your team members share codebase, avoid conflicts and deploys the application.
-​
- * Be concise, yet precise. For example, "we use pull-requests" is not a precise statement since it leaves too many open questions - Pull-requests from where to where? Who reviews the pull-requests? Who is responsible for merging them? etc.
- * If applicable, specify any naming conventions or standards you decide to adopt.
- * Describe your overall deployment process from writing code to viewing a live application
- * What deployment tool(s) are you using? And how?
- * Don't forget to **briefly justify why** you chose this workflow or particular aspects of it!
+Our Github workflow revolves around utilizing the branch system. We will be using multiple branches to track developer progress and updates, conducting efficient and motonomous code reviews as needed. Through the branch system, codebases will be shared and used to avoid conflicts when pushing to the master branch, or in other words, updating the final version of the web app which will deploy. We will adapt basic naming conventions including capital constants and lowercase variables. The process of deployment includes merging branches to form our master branch, which we will then deploy onto the web using a website hosting device. This workflow looked pleasing to us as it is common practice in many of the companies that our group members have experience with, as well as the organizational tool that we use for personal projects.
 
 ## Coding Standards and Guidelines
 
