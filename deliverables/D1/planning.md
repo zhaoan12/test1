@@ -55,17 +55,8 @@ Playtesters can range from people who want to try out new games, or even other i
  * User stories must contain acceptance criteria. Examples of user stories with different formats can be found here: https://www.justinmind.com/blog/user-story-examples/. **It is important that you provide a link to an artifact containing your user stories**.
  * If you have a partner, these must be reviewed and accepted by them. You need to include the evidence of partner approval (e.g., screenshot from email) or at least communication to the partner (e.g., email you sent)
 
-**As an indie developer, I would like to be able to create an account and upload games to be playtested, so that I could see all the games I have uploaded, and easily view new feedback in a single location.
-
-As an indie developer, I would like to be able to create surveys and assign playtesters to my games, so that I can collect feedback and responses in order to better improve my game.
-
-As a playtester, I would like to be able to browse a large selection of indie games and download them, so that I am able to playtest and provide feedback.
-
-As a playtester, after playing a game, I would like to be able to easily review and complete surveys provided by the developer, so that I can help developers improve their game in a time efficient manner.
-
-As an administrator, I would like to be able to view reviews and games posted on the web-app, and be able to contact playtesters and developers or remove them if they have violated certain rules, so that the application remains well managed and easy to work with.
-
-As an administrator, I would like to be able to manage the subscription service for users and be able to be contacted if users have concerns regarding their subscription. **
+Link to artifact containing user stories [here](./User_Stories.pdf)
+Link to proof of sending it to partner.
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
