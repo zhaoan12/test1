@@ -35,11 +35,17 @@ The web app primarily has 3 users, though the instructions are meant for the fir
 
 As a developer, Simulence offers the ability to carefully handpick playtesters for their game, as well as design surveys and reviews specifically for their games.
 
-1. a
+1. Create an account by signing up using the register option on the front page
+2. Browse games that are publically available for playtesting
+3. Fill out surveys and write reviews for games that have been tested
 
 As a playtester, Simulence gives the opportunity for testers to try unique games in the playtesting stage, completing reviews and surveys thereafter.
 
-1. a
+1. Create an account by signing up using the register option on the front page
+2. Set up your game by uploading it to the site for testers to play
+3. Develop analytical and extensible surveys that help collect information about the game
+4. Invite, or set your game to public for new playtesters to join
+5. Schedule testing events using the Calandar system
 
  ## Development requirements
  
